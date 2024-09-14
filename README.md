@@ -1,2 +1,3 @@
 # my-Demo
-this is my first repository
+This is my first Repository.
+Author - Megh Shah
